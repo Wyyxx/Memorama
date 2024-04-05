@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Memorama</string>
+    <string name="message">Boton de inicio</string>
+    <string name="option_1">Reiniciar</string>
+    <string name="option_2">Terminar</string>
+    <string name="option_3">Salir</string>
+    <string name="hard_coded">NULL</string>
+    <string name="comprar">comprar</string>
+    <string name="cancelar">cancelar</string>
+    <string name="card_text">Dia de la coneja xd</string>
+    <string name="player1">Jugador 1: 0</string>
+    <string name="player2">Jugador 2: 0</string>
+</resources>
